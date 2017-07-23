@@ -1,2 +1,2 @@
 # redux
-redux 源码阅读
+lean redux source code
